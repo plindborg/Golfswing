@@ -21,7 +21,7 @@ Vardon does not collect, store, or share personal data.
 When you export or share a video, you choose where to share it. Vardon does not receive a copy.
 
 ## Contact
-If you have questions, contact us at: **support@example.com**
+If you have questions, contact us at: lindborg@gmail.com
 
 ---
 
